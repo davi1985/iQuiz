@@ -8,7 +8,7 @@ An simple quiz app builded with Swift and UiKit.
 
 ## :sparkles: Demo
 
-<img src="./screenshots/demo.gif" alt="IQuiz" />
+<img src="./screenshots/demo.gif" alt="IQuiz" width="400"/>
 
 &#xa0;
 
